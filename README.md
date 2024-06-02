@@ -1,12 +1,16 @@
 # CE Hava Durumu Uygulaması
 
 ## Gereksinimler
+
 - Python 3.x
 - `requests` kütüphanesi
 - `Pillow` (PIL) kütüphanesi
 - `Tkinter` kütüphanesi (Python'un standart kütüphanesi)
+- `io.BytesIO` kütüphanesi (byte verilerini işlemek için)
+
 
 ## Kurulum
+
 Öncelikle, gerekli Python kütüphanelerini kurmanız gerekiyor. Bunu aşağıdaki komutlarla yapabilirsiniz:
 
 ```bash
